@@ -22,7 +22,7 @@
 &kp LCTRL  &kp DEL   &kp LBKT  &kp RBKT  &trans                                   &trans    &kp LEFT   &kp UP    &kp DOWN  &kp RIGHT
                                    &kp LGUI   &mo 3     &mo 2          &kp PG_UP  &kp PG_DN &kp BSPC
                                    &kp SPACE  &kp LALT  &mo 1          &kp HOME   &kp END   &kp RET
-            >;/
+            >;
         };
 
         Numpad_Nav_Layer {
